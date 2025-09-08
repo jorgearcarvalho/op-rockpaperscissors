@@ -4,6 +4,9 @@ body {
     margin: 0;
     height: 100%;
 }
+#userScore {
+    padding-top: 10px;
+}
 
 .header {
     display: flex;
